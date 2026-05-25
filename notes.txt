@@ -1,0 +1,5 @@
+Line 1: Linux Day2
+Line 2: cp mv rm seekhe
+Line 3: Spaces avoid karne hai
+Line 4: Tab key use karo
+Line 5: rmdir empty folder ke liye
